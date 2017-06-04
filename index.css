@@ -5,7 +5,13 @@ h1{
 }
 
 h2{
-    text-align:right;
+    text-align:center;
+    text-align-last: right;
+}
+
+li{
+    text-align-last:right;
+
 }
 .subjects{
     font-weight: bold;
